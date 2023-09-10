@@ -37,10 +37,15 @@ footer{
     grid-column-gap: 5px;
     grid-row-gap: 5px;
     justify-content: center;
+    align-content: center;
 }
 
 span{
     width: 50px;
     height: 50px;
     background: white;
+}
+
+.active{
+    color: blue;
 }
